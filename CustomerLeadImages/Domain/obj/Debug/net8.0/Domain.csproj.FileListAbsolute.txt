@@ -1,0 +1,11 @@
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\bin\Debug\net8.0\Domain.dll
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\bin\Debug\net8.0\Domain.pdb
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.dll
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\Domain.pdb
+D:\CustomerLeadProfileImages\CustomerLeadImages\Domain\obj\Debug\net8.0\ref\Domain.dll

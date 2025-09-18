@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|d:\\customerleadprofileimages\\customerleadimages\\application\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|solutionrelative:application\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|d:\\customerleadprofileimages\\customerleadimages\\application\\services\\profileimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|solutionrelative:application\\services\\profileimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|d:\\customerleadprofileimages\\customerleadimages\\application\\dtos\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1BD96-F76F-487D-A3E9-671D854DC5D9}|Application\\Application.csproj|solutionrelative:application\\dtos\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F9578B-9603-437C-A207-0CDFEEA357ED}|CustomerLeadImages\\CustomerLeadImages.csproj|d:\\customerleadprofileimages\\customerleadimages\\customerleadimages\\controllers\\profileimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F9578B-9603-437C-A207-0CDFEEA357ED}|CustomerLeadImages\\CustomerLeadImages.csproj|solutionrelative:customerleadimages\\controllers\\profileimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileImageDto.cs",
+              "DocumentMoniker": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\DTOs\\ProfileImageDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProfileImageDto.cs",
+              "ToolTip": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\DTOs\\ProfileImageDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProfileImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:59:30.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileImagesController.cs",
+              "DocumentMoniker": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\CustomerLeadImages\\Controllers\\ProfileImagesController.cs",
+              "RelativeDocumentMoniker": "CustomerLeadImages\\Controllers\\ProfileImagesController.cs",
+              "ToolTip": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\CustomerLeadImages\\Controllers\\ProfileImagesController.cs",
+              "RelativeToolTip": "CustomerLeadImages\\Controllers\\ProfileImagesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:01:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileImageService.cs",
+              "DocumentMoniker": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\Services\\ProfileImageService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProfileImageService.cs",
+              "ToolTip": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\Services\\ProfileImageService.cs",
+              "RelativeToolTip": "Application\\Services\\ProfileImageService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:51:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidationService.cs",
+              "DocumentMoniker": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\Services\\FileValidationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FileValidationService.cs",
+              "ToolTip": "D:\\CustomerLeadProfileImages\\CustomerLeadImages\\Application\\Services\\FileValidationService.cs",
+              "RelativeToolTip": "Application\\Services\\FileValidationService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:57:54.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿
+namespace Domain.Models
+{
+    public class ProfileImage
+    {
+        public int Id { get; set; }
+        public int ProfileId { get; set; }
+        public string ImageData { get; set; } // Base64
+        public string FileName { get; set; }
+        public string ContentType { get; set; }
+        public DateTime UploadedAt { get; set; }
+        public int DisplayOrder { get; set; }
+        public bool IsPriority { get; set; } = false;
+        public Profile Profile { get; set; }
+    }
+}

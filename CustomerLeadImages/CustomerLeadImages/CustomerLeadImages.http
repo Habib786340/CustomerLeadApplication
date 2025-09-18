@@ -1,0 +1,6 @@
+@CustomerLeadImages_HostAddress = http://localhost:5291
+
+GET {{CustomerLeadImages_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
